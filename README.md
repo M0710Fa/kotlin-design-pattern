@@ -1,4 +1,4 @@
-# Kotlin-Design_Pattern
+# Kotlin-Design-Pattern
 
 ## Description
 to Learn GoF Design Patterns.
